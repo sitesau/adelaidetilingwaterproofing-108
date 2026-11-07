@@ -1,0 +1,22 @@
+{
+  "wheel_id": 810,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-108",
+  "project": "tiling-services-adelaide-council-and-approvals-617a88e47c7da521",
+  "parent_t1_ref": "adelaidetilingwaterproofing-153",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling services adelaide council and approvals",
+  "intended_url": "https://aumedia.neocities.org/tiling-services-adelaide-council-and-approvals-617a88e47c7da521/",
+  "tier": "T2",
+  "writeback_nonce": "fdd3ac2b31ebd37c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/adelaidetilingwaterproofing-153/",
+      "anchor": "tiling services adelaide explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
